@@ -11,5 +11,5 @@ langkah-langkah dalam menginstal operating system kali linux di vbox
 ![WhatsApp Image 2024-08-19 at 22 44 42_100391b6](https://github.com/user-attachments/assets/4b4a75b1-3007-4dc4-8c15-f73227f51860)
 ![WhatsApp Image 2024-08-19 at 22 44 43_86a74514](https://github.com/user-attachments/assets/1bcd96e0-2d91-48a1-bf62-a8434d78a6fa)
 * setelah selesai kita disuruh masukkan nama dengan pass untuk masuk ke OS Kali Linux nya
-![WhatsApp Image 2024-08-19 at 22 44 45_10b79585](https://github.com/user-attachments/assets/3b7a5ea8-4937-42b1-a613-3df2dbaf5c7d)
+
 
