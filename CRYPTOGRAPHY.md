@@ -1,20 +1,17 @@
-Scanning Nerwork menggunakan hping3 dan Zenmap
-sebelum memulai lab scanning menggunakan HPING3, login ke windows  dan hidupkan wireshark
-setelah hidupkan OS kali lalu masukkan command hping3 -c 3 dengan target ip 10.10.10.10 untuk memuat beberapa packet 
+# perhitungan-one-way-hashes-menggunakan HASHCALC dan MD5 Calculator
 
-![WhatsApp Image 2024-09-17 at 22 15 56_9d507b0e](https://github.com/user-attachments/assets/7de72398-e78f-4c2a-a861-8622c04905be)
+buka apk Hashcalc lalu pilih type data string
 
-setelah itu masukkan command hping3 --scan  1-3000 -S untuk scan beberapa parameter
+![image](https://github.com/user-attachments/assets/d9dfc42b-513a-454f-b765-4005e4e963cc)
 
-![WhatsApp Image 2024-09-17 at 22 17 58_243da93c](https://github.com/user-attachments/assets/62f90c25-e86e-46b0-a6a9-74bcd883b66d)
+masukkan data yang ingin di cari lalu klik calculate,setelah itu type data hasil yang kita inginkan akan muncul 
 
-setelah itu target machine berjalan di OS Windows dengan berupa data UDP yang ada di software wireshark 
+![image](https://github.com/user-attachments/assets/1a41b1f7-e0cb-4de7-8270-8bd93b136f54)
 
-![WhatsApp Image 2024-09-17 at 22 21 24_8736bf22](https://github.com/user-attachments/assets/c0543b4b-cd62-4a57-928f-7edca845f393)
+# install MD5 calculator  https://md5-calculator.software.informer.com/download/
 
-selanjutnya kita memasukkan command hping3 ip --flood untuk melakukan flood traffic ke target
+download .NET SKD 2.0 juga  https://www.microsoft.com/en-us/download/details.aspx?id=6041
 
-![image](https://github.com/user-attachments/assets/b440b1a2-bf18-433e-b1f3-62415c7b73f6)
+buka apk MD5 lalu masukkan file yang akan dicari lalu klik calculate 
+![image](https://github.com/user-attachments/assets/29cc7433-85a8-492b-b724-79149e18e176)
 
-#scanning dengan Zenmap 
-disini 
